@@ -1,0 +1,12 @@
+curl -X GET \
+https://api.github.com/repos/<username>/<repo>/pulls
+
+{
+"title": "Bug fix",
+"state": "open",
+"head": {
+  "repo": {
+    "full_name": "fazalazamifa/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
+}
