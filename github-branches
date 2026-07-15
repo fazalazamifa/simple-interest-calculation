@@ -1,0 +1,10 @@
+git branch -vv
+
+* main        abc1234 [origin/main] Updated README
+  bug-fix-typo def5678 Fixed typo
+
+git branch -a
+
+* main
+  bug-fix-typo
+  remotes/origin/main
